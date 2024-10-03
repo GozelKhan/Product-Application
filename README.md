@@ -16,3 +16,20 @@ Shows detailed information about a single product. The screen includes a large i
 
 Product model:
 A data class that defines the properties of a product: id, title, description, price, and imageUrl.
+
+What i learned from this Applcation:
+
+App Structure in Flutter:
+You learned how to organize a Flutter app using multiple screens (ProductListScreen, ProductDetailScreen) and widgets (ProductTile).
+
+Navigation in Flutter:
+You saw how to navigate between screens using Navigator.push() to move from a list view to a detailed view.
+
+ListView and ListTile:
+You explored using ListView.builder() to dynamically build a list of items and display them using ListTile.
+
+State Management:
+While this app doesn’t have complex state management, you learned how to pass data (Product) between screens using the constructor.
+
+Network Images and Layout:
+You learned how to fetch and display images from the internet using Image.network() and manage layout with Flutter’s BoxFit and SizedBox.
