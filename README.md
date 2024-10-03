@@ -22,7 +22,7 @@ What i learned from this Applcation:
 App Structure in Flutter:
 I learned how to organize a Flutter app using multiple screens (ProductListScreen, ProductDetailScreen) and widgets (ProductTile).
 
-Navigation in Flutter:
+Navigation in Flutter
 I saw how to navigate between screens using Navigator.push() to move from a list view to a detailed view.
 
 ListView and ListTile:
